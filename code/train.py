@@ -18,6 +18,7 @@ class Train(Dice):
 
 
 def main():
+    print "in here"
     hypos = xrange(1, 1001)
     suite = Train(hypos)
 
